@@ -56,7 +56,7 @@ Repo chính (public):
 https://github.com/Reimu0-bip/my-team-vlu-shoe-store.git
 
 Nhánh từng sinh viên (BẮT BUỘC):
-- SV1: https://github.com/.../tree/<branch_sv1>
+- SV1: https://github.com/Jinzek
 - SV2: https://github.com/.../tree/<branch_sv2>
 - SV3: https://github.com/.../tree/<branch_sv3>
 
