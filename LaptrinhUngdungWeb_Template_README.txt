@@ -10,7 +10,7 @@ I. THÔNG TIN THÀNH VIÊN
 ----------------------------------------------------------------------
 - 2474802010347 – Võ Thành Tâm – Frontend / Backend / Database / Triển khai
 - 2474802010360 - Ngô Vinh Thành - Frontend / Backend / Database / Triển khai
-- MSSV – Họ Tên – Vai trò
+- 247480201353 – Nguyễn Quốc Thái – 
 
 ----------------------------------------------------------------------
 II. MÔ TẢ ĐỀ TÀI
@@ -56,7 +56,8 @@ Repo chính (public):
 https://github.com/Reimu0-bip/my-team-vlu-shoe-store.git
 
 Nhánh từng sinh viên (BẮT BUỘC):
-- SV1: https://github.com/.../tree/<branch_sv1>
+- SV1: 
+https://github.com/Jinzek?tab=repositories
 - SV2: https://github.com/.../tree/<branch_sv2>
 - SV3: https://github.com/.../tree/<branch_sv3>
 
